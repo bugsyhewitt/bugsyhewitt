@@ -1,10 +1,5 @@
-                                                                                                
-@@@@@@@  @@@  @@@  @@@@@@@   @@@@@@ @@@ @@@ @@@  @@@ @@@@@@@@ @@@  @@@  @@@ @@@ @@@@@@@ @@@@@@@ 
-@@!  @@@ @@!  @@@ !@@       !@@     @@! !@@ @@!  @@@ @@!      @@!  @@!  @@! @@!   @!!     @!!   
-@!@!@!@  @!@  !@! !@! @!@!@  !@@!!   !@!@!  @!@!@!@! @!!!:!   @!!  !!@  @!@ !!@   @!!     @!!   
-!!:  !!! !!:  !!! :!!   !!:     !:!   !!:   !!:  !!! !!:       !:  !!:  !!  !!:   !!:     !!:   
-:: : ::   :.:: :   :: :: :  ::.: :    .:     :   : : : :: ::    ::.:  :::   :      :       :    
-                                                                                                
+<img width="1440" height="1646" alt="image" src="https://github.com/user-attachments/assets/ac6c29a5-0944-4ad5-a36b-f45098fb6adc" />
+                                                               
 <!--
 **bugsyhewitt/bugsyhewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
