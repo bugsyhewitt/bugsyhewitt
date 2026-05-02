@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&duration=4500&pause=1500&color=3FB950&center=true&vCenter=true&width=800&height=60&lines=%24+we+are+the+music+makers%2C+and+we+are+the+dreamers+of+dreams" alt="we are the music makers, and we are the dreamers of dreams" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&duration=4500&pause=1500&color=3FB950&center=true&vCenter=true&width=800&height=60&lines=💀   ~ ❯   +we+are+the+music+makers%2C+and+we+are+the+dreamers+of+dreams" alt="we are the music makers, and we are the dreamers of dreams" />
 </div>                   
 <!--
 **bugsyhewitt/bugsyhewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
