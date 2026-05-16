@@ -31,9 +31,14 @@
 
 ---
 
-> *"Every network has its dead — forgotten endpoints, abandoned services, secrets buried in old commits. I find them, and I make them speak."*
+> *Every system has its dead
+Not gone, but forgotten
+Lost services and secrets
+Buried in shallow graves
+I make them speak
 
-I hunt vulnerabilities on **HackerOne** and **Immunefi**, build offensive tooling, and run autonomous agent infrastructure for recon and triage. Based in Maine, USA.
+
+I produce Music, run autonomous agent infrastructure, and build offensive tooling. Based in USA.
 
 &nbsp;
 
