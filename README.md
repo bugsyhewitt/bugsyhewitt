@@ -3,10 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="hero-dark.png">
   <img src="hero.jpg" alt="Bugsy Hewitt — Digital Necromancer" width="460">
-</picture>
-&nbsp;
-
-### ▸ &nbsp; [ ENTER &nbsp; THE &nbsp; FULL &nbsp; SITE ](https://bugsyhewitt.github.io) &nbsp; ◂
+</picture> &nbsp; ### ▸ &nbsp; [ ENTER &nbsp; THE &nbsp; FULL &nbsp; SITE ](https://bugsyhewitt.github.io) &nbsp; ◂
 </div>
 <div align="center">
 
