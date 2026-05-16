@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/%40bugsyhewitt-0d0d0f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bugsyhewitt)
 [![GitHub](https://img.shields.io/badge/bugsyhewitt-0d0d0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugsyhewitt)
 [![Discord](https://img.shields.io/badge/bugsy5899-0d0d0f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/bugsyhewitt%40gmail.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bugsyhewitt@gmail.com)
+[![Email](https://img.shields.io/badge/bugsyhewitt%40v3x.tech-0d0d0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bugsyhewitt@v3x.tech)
 
 
 
