@@ -36,7 +36,7 @@ B U G S Y   H E W I T T
 [![Instagram](https://img.shields.io/badge/%40bugsyhewitt-0d0d0f?style=for-the-badge&logo=instagram&logoColor=9c3636)](https://instagram.com/bugsyhewitt)
 [![GitHub](https://img.shields.io/badge/bugsyhewitt-0d0d0f?style=for-the-badge&logo=github&logoColor=9c3636)](https://github.com/bugsyhewitt)
 [![Discord](https://img.shields.io/badge/bugsy5899-0d0d0f?style=for-the-badge&logo=discord&logoColor=9c3636)](https://discord.com)
-[![Email](https://img.shields.io/badge/bugsyhewitt%40gmail.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=9c3636)](mailto:bugsyhewitt@v3x.tech)
+[![Email](https://img.shields.io/badge/bugsyhewitt%40v3x.tech-0d0d0f?style=for-the-badge&logo=gmail&logoColor=9c3636)](mailto:bugsyhewitt@v3x.tech)
 
 &nbsp;
 
