@@ -23,7 +23,7 @@
 B U G S Y   H E W I T T
 ```
 
-### ✦ &nbsp; D I G I T A L &nbsp;&nbsp; N E C R O M A N C E R &nbsp; ✦
+### 💀 &nbsp; D I G I T A L &nbsp;&nbsp; N E C R O M A N C E R &nbsp; 💀
 
 <sub>BUG HUNTER &nbsp;·&nbsp; AI SECURITY EXPERT &nbsp;·&nbsp; PRODUCER</sub>
 
