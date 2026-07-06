@@ -14,7 +14,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="hero-dark.png">
-  <img src="hero.png" alt="Bugsy Hewitt - Digital Necromancer" width="440">
+  <img src="hero.png" alt="Bugsy Hewitt - Digital Necromancer" width="512">
 </picture>
 
 &nbsp;
