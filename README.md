@@ -19,7 +19,7 @@
 
 &nbsp;
 
-<sub>HACKER &nbsp;·&nbsp; AI & AUTOMATION EXPERT &nbsp;·&nbsp; MUSIC PRODUCER</sub>
+<sub>AI & AUTOMATION EXPERT &nbsp;·&nbsp; MUSIC PRODUCER &nbsp;·&nbsp; HACKER</sub>
 
 &nbsp;
 
