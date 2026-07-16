@@ -24,7 +24,6 @@
 &nbsp;
 
 ### ▸ &nbsp; [ &nbsp;E N T E R &nbsp;&nbsp; T H E &nbsp;&nbsp; F U L L &nbsp;&nbsp; S I T E&nbsp; ](https://bugsyhewitt.github.io) &nbsp; ◂
-###  &nbsp; [ &nbsp;B U G S Y H E W I T T . G I T H U B . I O&nbsp; ](https://bugsyhewitt.github.io) &nbsp; 
 
 &nbsp;
 
